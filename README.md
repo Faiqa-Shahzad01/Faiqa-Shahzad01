@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Faiqa Shahzad 👋
 
-<!--
-**Faiqa-Shahzad01/Faiqa-Shahzad01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Python Developer | Web Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern websites, web applications, and intelligent digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across frontend and backend development, creating practical applications and continuously improving my software development skills.
+
+### 🚀 About Me
+
+- 💻 Full-Stack Web Development enthusiast
+- 🐍 Working with Python and Flask
+- 🌐 Building responsive web experiences
+- 🔗 Interested in REST APIs and database integration
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 📊 Interested in Data Analysis
+- 🎓 Currently pursuing ICS (2nd Year)
+- 🌱 Always learning and building new projects
+
+### 🛠️ Technical Skills
+
+**Languages**
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+
+**Backend**
+- Flask
+- REST APIs
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+
+**Database**
+- SQL
+
+### 🎯 Current Goals
+
+- Build real-world full-stack applications
+- Improve backend development skills
+- Explore AI and Machine Learning
+- Write clean and maintainable code
+- Develop practical software solutions
+
+### 📂 Featured Projects
+
+Coming soon! I'm organizing my projects to showcase my development journey.
+
+### 🤝 Let's Connect
+
+- GitHub: https://github.com/Faiqa-Shahzad01
+- LinkedIn: Add your LinkedIn profile URL here
+
+I'm always interested in learning, collaborating, and building meaningful projects!
