@@ -54,6 +54,6 @@ Coming soon! I'm organizing my projects to showcase my development journey.
 ### 🤝 Let's Connect
 
 - GitHub: https://github.com/Faiqa-Shahzad01
-- LinkedIn: Add your LinkedIn profile URL here
-
+- LinkedIn: https://www.linkedin.com/in/faiqashahzad01/
+  
 I'm always interested in learning, collaborating, and building meaningful projects!
